@@ -2,7 +2,7 @@
 module test;
   import uvm_pkg::*;
 
-  import uart_pkg::*;
+ // import uart_pkg::*;
 
   reg clk;
   reg reset;
